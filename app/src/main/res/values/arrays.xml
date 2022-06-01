@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mailboxFolders">
+        <item>Inbox</item>
+        <item>Sent Mails</item>
+        <item>Drafts</item>
+    </string-array>
+    <string-array name="SortByOptions">
+        <item>Time Asc</item>
+        <item>Time Dsc</item>
+        <item>Mail Asc</item>
+        <item>Mail Dsc</item>
+        <item>Subject Asc</item>
+        <item>Subject Dsc</item>
+    </string-array>
+</resources>

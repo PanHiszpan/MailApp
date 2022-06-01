@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MailApp</string>
+    <string name="email">Email</string>
+    <string name="message"><b>Message</b></string>
+    <string name="message_content">Message content</string>
+    <string name="no">No</string>
+    <string name="recipient"><b>Recipient Email</b></string>
+    <string name="send">Send</string>
+    <string name="subject"><b>Subject</b></string>
+    <string name="subject_content">Subject content</string>
+    <string name="yes">Yes</string>
+</resources>
